@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikola Gužić</h1>
 <h3 align="center">Mobile developer from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaguzic&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaguzic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaguzic" alt="nikolaguzic" /></a> </p>
-
 - 🔭 I’m currently working on **Saigrac app**
 
 - 🌱 I’m currently learning **React Native patterns, TypeScript, Backend(Node/Express/Nest) and mobile performance optimization**
